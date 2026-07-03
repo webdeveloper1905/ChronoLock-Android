@@ -17,8 +17,4 @@ ChronoLock, kullanıcıların geleceğe mesajlar ve dijital anılar bırakmasın
 * **Dinamik Zaman Filtresi:** Kapsüllerin kilit durumu (`Açıldı` / `Kilitli`), cihazın yerel tarihi ile kapsülün hedef tarihi `Adapter` seviyesinde anlık kıyaslanarak görsel rozetlere (Badge) dönüştürülür.
 * **Otomatik Liste Güncelleme:** Yeni kapsül eklendikten sonra `onResume` yaşam döngüsü (Lifecycle) tetiklenerek ana sayfa listesi sunucudan otomatik olarak tazelenir.
 
-## 🛠️ Kurulum ve Çalıştırma
 
-1. Projeyi bilgisayarınıza clone edin:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADIN/ChronoLock-Android.git](https://github.com/KULLANICI_ADIN/ChronoLock-Android.git)
